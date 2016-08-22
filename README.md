@@ -4,14 +4,17 @@
 
 > The flower that blooms in adversity is the rarest and most beautiful of all. -[Mulan](https://en.wikipedia.org/wiki/Mulan_(1998_film))
 
+## Overview
+
+We'll introduce you to INterface Builder, which allows developers to create create interfaces for applications using a graphical user interface (GUI). 
+
 ## Learning Objectives
 
-* Explain that *Interface Builder* allows developers to create interfaces for applications using a graphical user interface (GUI). 
-* Navigate to *Interface Builder* from Xcode.
-* Explain that a `.storyboard` file is single file in Xcode that shows the flow of the various screens that will make an app.
+* Navigate to *Interface Builder* from Xcode
+* Explain that a `.storyboard` file is single file in Xcode that shows the flow of the various screens that will make an app
 * Navigate to the Development Info section after selecting their target in the Project navigator
-* Navigate to the Object Library.
-* Drag a View Controller onto the canvas and understands that this is referred to as a scene.
+* Navigate to the Object Library
+* Drag a View Controller onto the canvas as a scene
 
 ## Interface Builder
 
