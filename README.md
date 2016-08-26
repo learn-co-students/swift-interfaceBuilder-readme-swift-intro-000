@@ -6,7 +6,7 @@
 
 ## Overview
 
-We'll introduce you to INterface Builder, which allows developers to create create interfaces for applications using a graphical user interface (GUI). 
+We'll introduce you to Interface Builder, which allows developers to create interfaces for applications using a graphical user interface (GUI). 
 
 ## Learning Objectives
 
@@ -18,9 +18,9 @@ We'll introduce you to INterface Builder, which allows developers to create crea
 
 ## Interface Builder
 
-You can think of Xcode as two fundamental parts: An _editor_, where you write the Swift code that makes your application run; and _Interface Builder_, which is the part where you lay out the graphical interface of your program—the buttons, toolbars, menus, images, and text that make up how your users interact with your program. Interface Builder is an important part of your Swift programming toolset.
+You can think of Xcode as two fundamental parts. The first is an _editor_, where you write the Swift code that makes your application run. The second is  _Interface Builder_, which is the part where you lay out the graphical interface of your program—the buttons, toolbars, menus, images, and text that make up how your users interact with your program. Interface Builder is an important part of your Swift programming toolset.
 
-These two components, the editor and Interface Builder, are both parts of _Xcode_, and together, allow you to easily and rapidly develop both iOS and OS X graphical programs. The great thing about Xcode is that it allows you to lay out your program's interface using graphical tools, then easily connect the graphical components of your program to Swift code that makes them work.
+These two components, the editor and Interface Builder, are both parts of _Xcode_, and together, allow you to easily and rapidly develop both iOS and OSX graphical programs. The great thing about Xcode is that it allows you to lay out your program's interface using graphical tools, then easily connect the graphical components of your program to Swift code that makes them work.
 
 In this lesson, you'll get a quick introductory tour to Interface Builder. Start that tour by creating an Xcode project for a new iOS program. For this lesson, you can just use Xcode's Single View Application template. After creating this project, you'll be greeted with Xcode's standard editing window:
 
@@ -76,6 +76,6 @@ Look! There's already an icon marked **View Controller**, so you don't even have
 
 Congratulations! You've added a new scene to your storyboard!
 
-That's all we're going to worry about for now. In the upcoming lessons, you'll learn a lot more about laying out your applications graphical interface, including how to add buttons and text, and wire these scenes together so you can navigate between them. But for now, just relish in the fact that you have created a storyboard with _two scenes!_
+That's all we're going to worry about for now. In upcoming lessons, you'll learn a lot more about laying out your applications graphical interface, including how to add buttons and text, and wire these scenes together so you can navigate between them. But for now, just relish in the fact that you have created a storyboard with _two scenes!_
 
 <a href='https://learn.co/lessons/InterfaceBuilder' data-visibility='hidden'>View this lesson on Learn.co</a>
